@@ -1,3 +1,3 @@
-print("sanj")
-print("hi")
-print("no")
+print("nj")
+print("i")
+print("o")
